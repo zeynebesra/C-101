@@ -1,0 +1,15 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\console_programlama\bin\Debug\net6.0\console_programlama.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\console_programlama\bin\Debug\net6.0\console_programlama.deps.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\console_programlama\bin\Debug\net6.0\console_programlama.runtimeconfig.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\console_programlama\bin\Debug\net6.0\console_programlama.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\console_programlama\bin\Debug\net6.0\ref\console_programlama.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\console_programlama\bin\Debug\net6.0\console_programlama.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\console_programlama\obj\Debug\net6.0\console_programlama.csproj.AssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\console_programlama\obj\Debug\net6.0\console_programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\console_programlama\obj\Debug\net6.0\console_programlama.AssemblyInfoInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\console_programlama\obj\Debug\net6.0\console_programlama.AssemblyInfo.cs
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\console_programlama\obj\Debug\net6.0\console_programlama.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\console_programlama\obj\Debug\net6.0\console_programlama.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\console_programlama\obj\Debug\net6.0\ref\console_programlama.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\console_programlama\obj\Debug\net6.0\console_programlama.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\console_programlama\obj\Debug\net6.0\console_programlama.genruntimeconfig.cache
