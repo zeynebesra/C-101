@@ -1,0 +1,5 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\degiskenler\obj\Debug\net6.0\degiskenler.csproj.AssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\degiskenler\obj\Debug\net6.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfo.cs
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\C#101\degiskenler\obj\Debug\net6.0\degiskenler.csproj.CoreCompileInputs.cache
