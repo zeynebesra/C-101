@@ -1,0 +1,15 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\if_else_ternary\bin\Debug\net6.0\if_else_ternary.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\if_else_ternary\bin\Debug\net6.0\if_else_ternary.deps.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\if_else_ternary\bin\Debug\net6.0\if_else_ternary.runtimeconfig.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\if_else_ternary\bin\Debug\net6.0\if_else_ternary.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\if_else_ternary\bin\Debug\net6.0\ref\if_else_ternary.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\if_else_ternary\bin\Debug\net6.0\if_else_ternary.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\if_else_ternary\obj\Debug\net6.0\if_else_ternary.csproj.AssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\if_else_ternary\obj\Debug\net6.0\if_else_ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\if_else_ternary\obj\Debug\net6.0\if_else_ternary.AssemblyInfoInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\if_else_ternary\obj\Debug\net6.0\if_else_ternary.AssemblyInfo.cs
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\if_else_ternary\obj\Debug\net6.0\if_else_ternary.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\if_else_ternary\obj\Debug\net6.0\if_else_ternary.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\if_else_ternary\obj\Debug\net6.0\ref\if_else_ternary.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\if_else_ternary\obj\Debug\net6.0\if_else_ternary.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\if_else_ternary\obj\Debug\net6.0\if_else_ternary.genruntimeconfig.cache
