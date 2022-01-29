@@ -1,0 +1,15 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\telefon_rehberi_uygulama\bin\Debug\net6.0\telefon_rehberi_uygulama.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\telefon_rehberi_uygulama\bin\Debug\net6.0\telefon_rehberi_uygulama.deps.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\telefon_rehberi_uygulama\bin\Debug\net6.0\telefon_rehberi_uygulama.runtimeconfig.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\telefon_rehberi_uygulama\bin\Debug\net6.0\telefon_rehberi_uygulama.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\telefon_rehberi_uygulama\bin\Debug\net6.0\ref\telefon_rehberi_uygulama.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\telefon_rehberi_uygulama\bin\Debug\net6.0\telefon_rehberi_uygulama.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\telefon_rehberi_uygulama\obj\Debug\net6.0\telefon_rehberi_uygulama.csproj.AssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\telefon_rehberi_uygulama\obj\Debug\net6.0\telefon_rehberi_uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\telefon_rehberi_uygulama\obj\Debug\net6.0\telefon_rehberi_uygulama.AssemblyInfoInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\telefon_rehberi_uygulama\obj\Debug\net6.0\telefon_rehberi_uygulama.AssemblyInfo.cs
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\telefon_rehberi_uygulama\obj\Debug\net6.0\telefon_rehberi_uygulama.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\telefon_rehberi_uygulama\obj\Debug\net6.0\telefon_rehberi_uygulama.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\telefon_rehberi_uygulama\obj\Debug\net6.0\ref\telefon_rehberi_uygulama.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\telefon_rehberi_uygulama\obj\Debug\net6.0\telefon_rehberi_uygulama.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\telefon_rehberi_uygulama\obj\Debug\net6.0\telefon_rehberi_uygulama.genruntimeconfig.cache
