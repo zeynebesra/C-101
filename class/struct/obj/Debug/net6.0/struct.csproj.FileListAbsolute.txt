@@ -1,0 +1,15 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\struct\bin\Debug\net6.0\struct.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\struct\bin\Debug\net6.0\struct.deps.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\struct\bin\Debug\net6.0\struct.runtimeconfig.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\struct\bin\Debug\net6.0\struct.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\struct\bin\Debug\net6.0\ref\struct.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\struct\bin\Debug\net6.0\struct.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\struct\obj\Debug\net6.0\struct.csproj.AssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\struct\obj\Debug\net6.0\struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\struct\obj\Debug\net6.0\struct.AssemblyInfoInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\struct\obj\Debug\net6.0\struct.AssemblyInfo.cs
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\struct\obj\Debug\net6.0\struct.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\struct\obj\Debug\net6.0\struct.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\struct\obj\Debug\net6.0\ref\struct.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\struct\obj\Debug\net6.0\struct.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\struct\obj\Debug\net6.0\struct.genruntimeconfig.cache
