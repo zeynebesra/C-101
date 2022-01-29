@@ -1,0 +1,15 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\methods_extension\bin\Debug\net6.0\methods_extension.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\methods_extension\bin\Debug\net6.0\methods_extension.deps.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\methods_extension\bin\Debug\net6.0\methods_extension.runtimeconfig.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\methods_extension\bin\Debug\net6.0\methods_extension.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\methods_extension\bin\Debug\net6.0\ref\methods_extension.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\methods_extension\bin\Debug\net6.0\methods_extension.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\methods_extension\obj\Debug\net6.0\methods_extension.csproj.AssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\methods_extension\obj\Debug\net6.0\methods_extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\methods_extension\obj\Debug\net6.0\methods_extension.AssemblyInfoInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\methods_extension\obj\Debug\net6.0\methods_extension.AssemblyInfo.cs
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\methods_extension\obj\Debug\net6.0\methods_extension.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\methods_extension\obj\Debug\net6.0\methods_extension.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\methods_extension\obj\Debug\net6.0\ref\methods_extension.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\methods_extension\obj\Debug\net6.0\methods_extension.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\methods_extension\obj\Debug\net6.0\methods_extension.genruntimeconfig.cache
