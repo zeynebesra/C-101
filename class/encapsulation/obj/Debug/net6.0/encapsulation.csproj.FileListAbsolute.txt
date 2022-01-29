@@ -1,0 +1,15 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\encapsulation\bin\Debug\net6.0\encapsulation.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\encapsulation\bin\Debug\net6.0\encapsulation.deps.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\encapsulation\bin\Debug\net6.0\encapsulation.runtimeconfig.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\encapsulation\bin\Debug\net6.0\encapsulation.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\encapsulation\bin\Debug\net6.0\ref\encapsulation.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\encapsulation\bin\Debug\net6.0\encapsulation.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\encapsulation\obj\Debug\net6.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\encapsulation\obj\Debug\net6.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfo.cs
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\encapsulation\obj\Debug\net6.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\encapsulation\obj\Debug\net6.0\encapsulation.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\encapsulation\obj\Debug\net6.0\ref\encapsulation.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\encapsulation\obj\Debug\net6.0\encapsulation.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\encapsulation\obj\Debug\net6.0\encapsulation.genruntimeconfig.cache
