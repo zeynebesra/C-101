@@ -1,0 +1,15 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\arraylist\bin\Debug\net6.0\arraylist.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\arraylist\bin\Debug\net6.0\arraylist.deps.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\arraylist\bin\Debug\net6.0\arraylist.runtimeconfig.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\arraylist\bin\Debug\net6.0\arraylist.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\arraylist\bin\Debug\net6.0\ref\arraylist.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\arraylist\bin\Debug\net6.0\arraylist.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\arraylist\obj\Debug\net6.0\arraylist.csproj.AssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\arraylist\obj\Debug\net6.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\arraylist\obj\Debug\net6.0\arraylist.AssemblyInfoInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\arraylist\obj\Debug\net6.0\arraylist.AssemblyInfo.cs
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\arraylist\obj\Debug\net6.0\arraylist.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\arraylist\obj\Debug\net6.0\arraylist.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\arraylist\obj\Debug\net6.0\ref\arraylist.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\arraylist\obj\Debug\net6.0\arraylist.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\arraylist\obj\Debug\net6.0\arraylist.genruntimeconfig.cache
