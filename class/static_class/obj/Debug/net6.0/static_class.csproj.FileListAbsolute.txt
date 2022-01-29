@@ -1,0 +1,15 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\static_class\bin\Debug\net6.0\static_class.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\static_class\bin\Debug\net6.0\static_class.deps.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\static_class\bin\Debug\net6.0\static_class.runtimeconfig.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\static_class\bin\Debug\net6.0\static_class.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\static_class\bin\Debug\net6.0\ref\static_class.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\static_class\bin\Debug\net6.0\static_class.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\static_class\obj\Debug\net6.0\static_class.csproj.AssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\static_class\obj\Debug\net6.0\static_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\static_class\obj\Debug\net6.0\static_class.AssemblyInfoInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\static_class\obj\Debug\net6.0\static_class.AssemblyInfo.cs
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\static_class\obj\Debug\net6.0\static_class.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\static_class\obj\Debug\net6.0\static_class.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\static_class\obj\Debug\net6.0\ref\static_class.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\static_class\obj\Debug\net6.0\static_class.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\class\static_class\obj\Debug\net6.0\static_class.genruntimeconfig.cache
