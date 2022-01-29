@@ -1,0 +1,15 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\homework_2\q2\bin\Debug\net6.0\q2.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\homework_2\q2\bin\Debug\net6.0\q2.deps.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\homework_2\q2\bin\Debug\net6.0\q2.runtimeconfig.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\homework_2\q2\bin\Debug\net6.0\q2.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\homework_2\q2\bin\Debug\net6.0\ref\q2.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\homework_2\q2\bin\Debug\net6.0\q2.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\homework_2\q2\obj\Debug\net6.0\q2.csproj.AssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\homework_2\q2\obj\Debug\net6.0\q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\homework_2\q2\obj\Debug\net6.0\q2.AssemblyInfoInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\homework_2\q2\obj\Debug\net6.0\q2.AssemblyInfo.cs
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\homework_2\q2\obj\Debug\net6.0\q2.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\homework_2\q2\obj\Debug\net6.0\q2.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\homework_2\q2\obj\Debug\net6.0\ref\q2.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\homework_2\q2\obj\Debug\net6.0\q2.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\csharp101\homework_2\q2\obj\Debug\net6.0\q2.genruntimeconfig.cache
